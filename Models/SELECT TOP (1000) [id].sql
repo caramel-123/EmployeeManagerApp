@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id]
+      ,[FullName]
+      ,[Department]
+      ,[Salary]
+  FROM [EmployeeManagerDB].[dbo].[Employees]
